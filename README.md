@@ -1,16 +1,52 @@
-## Hi there 👋
+### Hi there, I'm Chamod Alwis 👋
 
-<!--
-**Chamod-Tharusha-Alwis/Chamod-Tharusha-Alwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Software Engineering graduate from Kandy, Sri Lanka, with a passion for building full-stack web applications. I specialize in the MERN stack and love solving real-world problems with code.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing my portfolio with new projects.
+- 🌱 I’m currently learning **[mention a new technology, e.g., TypeScript or Docker]**.
+- 📫 How to reach me: **[your professional email address]**
+- ⚡ Fun fact: **[Add a fun fact about yourself, e.g., I enjoy trekking in the Knuckles Mountain Range.]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Tech Stack
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https.skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
