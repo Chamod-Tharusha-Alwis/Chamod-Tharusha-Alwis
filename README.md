@@ -13,7 +13,7 @@ I am a passionate full-stack developer based in Kandy, Sri Lanka. I recently com
 - 💼 I’m currently working as a **Software Engineer Intern** at Shield Technologies.
 - 🎓 I’m currently pursuing my **BSc (Hons) Top-Up degree in Data Science** at ESU Kandy.
 - 🚀 I’m currently building **Ayu Arana Care** (Elders' Care Home System) and **Ceylon Traveler** (Tourism Platform).
-- 🌱 I’m currently learning **TypeScript & Docker** to level up my deployment and type-safety skills.
+- 🌱 I’m currently learning Next.js & AI integration to bridge the gap between robust full-stack development and data-driven applications.
 - 📫 Reach me at: **[chamodtharusha13@gmail.com](mailto:chamodtharusha13@gmail.com)**
 
 ---
