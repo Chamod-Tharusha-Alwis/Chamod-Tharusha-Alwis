@@ -47,8 +47,8 @@ I am a passionate full-stack developer based in Kandy, Sri Lanka. I recently com
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamod-Tharusha-Alwis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Chamod's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamod-Tharusha-Alwis&theme=tokyonight&hide_border=true&background=0D1117" alt="Chamod's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamod-Tharusha-Alwis&show_icons=true&theme=tokyonight&hide_border=true" alt="Chamod's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamod-Tharusha-Alwis&theme=tokyonight&hide_border=true" alt="Chamod's GitHub Streak" />
 </div>
 
 <br>
